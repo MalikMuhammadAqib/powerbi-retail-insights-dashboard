@@ -33,20 +33,13 @@ This dataset was cleaned and prepared using **Power Query in Power BI** before b
 
 # 📊 Dashboard Screenshots
 
-Below are screenshots of the Power BI dashboards used for analysis.
+Repo files containing  screenshots of the Power BI dashboards used for analysis.
 
 ### Sales Overview Dashboard
 
-![Sales Dashboard](dashboard1.png)
-
 ### Regional Performance Dashboard
 
-![Regional Dashboard](dashboard2.png)
-
 ### Customer & Category Analysis Dashboard
-
-![Customer Dashboard](dashboard3.png)
-
 ---
 
 # 🔍 Key Findings
